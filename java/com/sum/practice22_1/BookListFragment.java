@@ -22,7 +22,6 @@ public class BookListFragment extends Fragment {
     BookListAdapter adapter;
 
     OnDatabaseCallback callback; //얘는 뭐지?
-    //영화 받아쓰기처럼, 몰라도 일단 계속계속 많이많이 하다보면 높은 수준에 오르게 된다. 언젠간 알겠지 ㅅㅂ
 
     @Override
     public void onAttach(@NonNull Context context) {
